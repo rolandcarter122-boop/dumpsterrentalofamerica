@@ -1,0 +1,48 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Seriously, what's with the name? Are you a real dumpster company?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, 100%. We started small in Massachusetts with one service and kept the name as we grew into a nationwide logistics company. It’s a bit weird, but it reminds us that dependable service matters more than a fancy name. We are a fully licensed and insured roll off dumpster provider.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> What’s the real-world difference between a 20-yard and a 30-yard dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Think of it as height. They both have the same footprint on your driveway (about 22 feet long by 8 feet wide). The difference is the height of the walls. A 20 yd roll off dumpster is about 4.5 feet high, while a 30 yard is about 6 feet high. That extra height is perfect for bulky items like furniture.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I mix yard waste like branches and grass clippings with old furniture?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For sure. For a general cleanout, you can absolutely mix all your non-hazardous materials. The only time we require separation is for very heavy, clean-loaded materials like concrete or dirt, which go to a different type of facility.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you actually calculate my final bill? Is the quote firm?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our roll off dumpster rental rates are quoted as a flat fee that includes delivery, pickup, a standard rental period, and a generous weight allowance. The only way the price changes is if you keep the bin much longer than agreed upon or if the weight goes significantly over the allowance, which is rare for most projects.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the one thing I should NOT do when loading my dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Do not load anything above the top rails of the container. We are required by law to tarp the load securely for transport, and if items are sticking out over the top, we cannot legally or safely haul it away.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
